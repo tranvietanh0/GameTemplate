@@ -1,0 +1,3 @@
+[submodule "UnityHyperCasualGame/Assets/GameModule/GameFoundationCore"]
+	path = UnityHyperCasualGame/Assets/GameModule/GameFoundationCore
+	url = git@github.com:tranvietanh0/GameFoundationCore.git
